@@ -76,10 +76,4 @@
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 Enjoy *The Long Drive* with enhanced diagnostic support and happy modding!
